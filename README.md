@@ -7,7 +7,7 @@ We have a file called models.py that includes all our classes for our models and
 Why are we using GitHub classrooms? Here are three reasons why we are using it:
 * After EngSci, I experienced a learning curve when using GitHub in industry. I wouldn't say I liked it, but it seems like it is the best way to work with others on code
 * It forces us to break the project down into components that can be easily understood by others, resulting in better code
-* It allows progress to be tracked with ease
+* It allows progress and contributions of team members to be tracked with ease
 
 ## Next Steps:
 * Download GitHub desktop
