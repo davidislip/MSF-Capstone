@@ -5,7 +5,7 @@ Welcome to the $\mathbb{MSF}$ capstone! This year we will use GitHub classrooms 
 Why are we using GitHub classrooms? Here are three reasons why we are using it:
 * To avoid a learning curve in industry
 * It forces us to break the project down into components that can be easily understood by others, resulting in better code
-* It allows progress to be tracked with ease
+* It allows for easy tracking of progress and contributions of team members
 
 ## Next Steps:
 * Download GitHub desktop
