@@ -10,6 +10,6 @@ Why are we using GitHub classrooms? Here are three reasons why we are using it:
 ## Next Steps:
 * Download GitHub desktop
 * Go through the getting started assignment: Git and Github Fundamentals if you have not already.
-## Info
+## Other Info:
 * This repo is where your entire project should live. Ideally, one should be able to install any dependencies listed in your README, clone the repo and then run the code.
 * To run the portfolio optimization notebook, install cvxpy, matplotlib, scipy, numpy
